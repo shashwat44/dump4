@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"Growth.productreviews"}],"uuid":"108371349dba4617972bb7c72c14752c"}
